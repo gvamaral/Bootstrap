@@ -1,0 +1,56 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-image: url(../images/computer.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.container {
+  color: #FFF;
+}
+
+.display-1 {
+  font-weight: 700;
+  margin: 30px 0;
+}
+
+.display-6 {
+  margin-bottom: 13%;
+}
+
+.size {
+  font-size: 25px;
+  margin-bottom: 0;
+  margin-top: 50px;
+}
+
+.cor {
+  color: #8d37ff;
+}
+
+.botao {
+  background-color: #8d37ff;
+  border-radius: 25px;
+  padding-right: 30px;
+  padding-left: 30px;
+  border-color: #8d37ff;
+  margin-bottom: 50px;
+}
+
+.course {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 10px;
+}
+
+.content, .duration, .access {
+  margin: 0 40px;
+}
+
+.amount {
+  font-size: 20px;
+}
+
+/*# sourceMappingURL=custom.css.map */
